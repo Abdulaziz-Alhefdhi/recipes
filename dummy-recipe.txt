@@ -1,0 +1,10 @@
+Ingredients:
+ - some Ingredient
+ - some Ingredient
+ - some Ingredient
+
+Directions:
+  1. Go North.
+  2. Go South.
+  3. Go East.
+  4. Go West.
